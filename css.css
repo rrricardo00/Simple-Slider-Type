@@ -1,0 +1,9 @@
+.item{
+    display: none;
+    transition: 5s ease;
+}
+
+.active{
+    display: block;
+    
+}
